@@ -1,5 +1,5 @@
 clear
-load("Yale_5_258_3view.mat");
+load("ProteinFold_5_258_12view.mat");
 k = 25;
 alpha = 0.1;
 max_iter = 5;
